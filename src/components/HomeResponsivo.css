@@ -59,9 +59,17 @@
       align-items: center;
     }
 
+    .imagemPerfil {
+      order: 2;
+    }
+
     .imagemPerfil img {
       width: 350px;
       height: 350px;
+    }
+
+    .saudacao, .redesSociais {
+      order: 1;
     }
 
     .saudacao h1 {

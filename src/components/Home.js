@@ -58,7 +58,7 @@ const Home = () => {
 
           <div className="saudacao">
             <h1>Olá! Eu sou o <br/><span>Tiago Tomé</span></h1>
-            <p>Sou um dev <span>Front-End</span> em formação.</p>
+            <p>Sou um desenvolvedor <span>Front-End</span>.</p>
 
             <div className="redesSociais">
               <a href="https://github.com/tiagoothome" target="_blank" rel="noopener noreferrer"><img className="logoRedesSociais" src={github} alt="GitHub"/></a>
