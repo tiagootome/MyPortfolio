@@ -35,7 +35,7 @@ const Home = () => {
       fetchProjetos();
 
       const dataNascimento = new Date("1997-12-17")
-      const hoje = newDate()
+      const hoje = new Date()
       const diferencaAnos = hoje.getFullYear() - dataNascimento.getFullYear();
 
       const aniversarioAconteceu = 
