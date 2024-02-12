@@ -20,6 +20,7 @@ const Home = () => {
 
     const [projetos, setProjetos] = useState([]);
     const [idade, setIdade] = useState(0);
+    const [anoAtual, setAnoAtual] = useState(new Date().getFullYear());
       
     useEffect(() => {
       const fetchProjetos = async () => {
@@ -46,6 +47,16 @@ const Home = () => {
       const idadeAtual = aniversarioAconteceu ? diferencaAnos : diferencaAnos - 1;
 
       setIdade(idadeAtual);
+
+
+      const intervalId = setInterval(() => {
+        const hoje = new Date();
+        if (hoje.getMonth() === 0 && hoje.getDate() === 1) {
+          setAnoAtual(hoje.getFullYear());
+        }
+      }, 60000); 
+
+      return () => clearInterval(intervalId);
     }, []);
 
   return (
@@ -108,7 +119,7 @@ const Home = () => {
         </main>
 
         <footer>
-          <p>&copy; 2023 Tiago Tomé.</p>
+          <p>&copy; {anoAtual} Tiago Tomé.</p>
         </footer>
     </>
   )
