@@ -6,7 +6,7 @@ import "./Home.css"
 import "./HomeResponsivo.css"
 
 // Imagens
-import perfil from "../assets/2.jpg"
+import perfil from "../assets/IMG_0910.jpg"
 import html from "../assets/html.png"
 import css from "../assets/css.png"
 import js from "../assets/js.png"
@@ -106,7 +106,7 @@ const Home = () => {
 
         <section className="sobreMim" id="sobre">
           <h1 className="titulosSecoes">Sobre mim</h1>
-          <p>Meu nome é <span>Tiago Tomé</span>, tenho {idade} anos e moro em Iguatu / Ceará. Apaixonado por ciências exatas e tecnologia, sou graduado em <span>Matemática</span> pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - <i>Campus Cedro</i>, onde desenvolvi habilidades analíticas e de resolução de problemas. Também sou <span>Técnico de Informática</span> pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - <i>Campus</i> Iguatu, onde adquiri conhecimentos práticos em sistemas computacionais. <br/> Atualmente estou cursando <span>Análise e Desenvolvimento de Sistemas</span>, com foco em <span>Desenvolvimento Web Front-End</span>. Minha paixão pela tecnologia me faz buscar sempre aprender novas linguagens de programação e ferramentas para criar experiências digitais de alta qualidade.</p>
+          <p>Meu nome é <span>Tiago Tomé</span>, tenho {idade} anos e moro em Iguatu / Ceará. Apaixonado por ciências exatas e tecnologia, sou graduado em <span>Matemática</span> pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - <i>Campus</i> Cedro, onde desenvolvi habilidades analíticas e de resolução de problemas. Também sou <span>Técnico de Informática</span> pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - <i>Campus</i> Iguatu, onde adquiri conhecimentos práticos em sistemas computacionais. <br/> Atualmente estou cursando <span>Análise e Desenvolvimento de Sistemas</span>, com foco em <span>Desenvolvimento Web Front-End</span>. Minha paixão pela tecnologia me faz buscar sempre aprender novas linguagens de programação e ferramentas para criar experiências digitais de alta qualidade.</p>
         </section>
 
         <section className="habilidades" id="minhasHabilidades">
