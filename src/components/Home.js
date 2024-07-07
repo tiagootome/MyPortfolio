@@ -6,7 +6,7 @@ import "./Home.css"
 import "./HomeResponsivo.css"
 
 // Imagens
-import perfil from "../assets/IMG_0910.JPG"
+import perfil from "../assets/2.jpg"
 import html from "../assets/html.png"
 import css from "../assets/css.png"
 import js from "../assets/js.png"
