@@ -41,7 +41,7 @@
 
 
 ## :camera_flash: Captura de Tela 
-<div align="center"> 
+<div> 
   <img src="https://github.com/user-attachments/assets/eb718600-6e17-45be-889c-f8d31c1880d2" width="700px" />
 </div>
 
