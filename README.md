@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=green&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=License&message=CUSTOM&color=green&style=for-the-badge"/>
 </p>
 
 > Status do Projeto: :white_check_mark: (concluido) | :warning: (em desenvolvimento) | :x: (não iniciada)
