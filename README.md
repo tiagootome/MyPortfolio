@@ -18,7 +18,7 @@
 
 :small_blue_diamond: [Objetivo](#dart-objetivo) :white_check_mark:
 
-:small_blue_diamond: [Funcionalidades](#video_game-funcionalidades) :warning:
+:small_blue_diamond: [Funcionalidades](#video_game-funcionalidades) :white_check_mark:
 
 :small_blue_diamond: [Captura de Tela](#camera_flash-captura-de-tela) :white_check_mark:
 
@@ -36,7 +36,7 @@
 ## :video_game: Funcionalidades 
 - Navegação Intuitiva: Menu de navegação para fácil acesso a diferentes seções, como projetos, habilidades e contato;
 - Exibição de Projetos: Seção dedicada para mostrar detalhes dos projetos que desenvolvi, com links para visualização;
-- Informações de Contato: Links das principais redes sociais para que visitantes possam enviar mensagens.
+- Informações de Contato: Links das principais redes sociais para que visitantes possam enviar mensagens;
 - Responsividade: Layout adaptável para garantir uma boa experiência de usuário em dispositivos móveis e desktops.
 
 
@@ -46,7 +46,7 @@
 </div>
 
 ## :hammer_and_wrench: Tecnologias Utilizadas 
--ReactJS;
+- ReactJS;
 - HTML5;
 - CSS3;
 - JavaScript.
