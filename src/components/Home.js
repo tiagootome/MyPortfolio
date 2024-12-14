@@ -86,7 +86,7 @@ const Home = () => {
             <p>Sou um desenvolvedor <span>Front-End</span>.</p>
 
             <div className="redesSociais">
-              <a href="https://github.com/tiagoolima" target="_blank" rel="noopener noreferrer"><img className="logoRedesSociais" src={github} alt="GitHub"/></a>
+              <a href="https://github.com/tiagootome" target="_blank" rel="noopener noreferrer"><img className="logoRedesSociais" src={github} alt="GitHub"/></a>
               <a href="https://www.instagram.com/tiagootome/" target="_blank" rel="noopener noreferrer"><img className="logoRedesSociais" src={insta} alt="Instagram"/></a>
               <a href="https://www.linkedin.com/in/tiagootome/" target="_blank" rel="noopener noreferrer"><img className="logoRedesSociais" src={linkedin} alt="Linkedin"/></a>
             </div>
